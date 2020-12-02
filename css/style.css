@@ -172,6 +172,7 @@ ul li a:hover {
 }
 .class-details {
   display: flex;
+flex-wrap:wrap;
 }
 .class-card {
   width: 150px;
