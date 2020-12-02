@@ -158,6 +158,7 @@ ul li a:hover {
 }
 .filter {
   display: flex;
+flex-wrap:wrap;
 }
 .grade select,
 .search-input input {
